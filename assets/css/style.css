@@ -332,7 +332,7 @@ body {
 
 .hero {
   /* background-color: var(--jet); */
-  background-image: url(../images/hero2.jpg);
+  background-image: url("../images/hero2.jpg");
   background-size: cover;
   color: var(--white);
   min-height: 700px;
