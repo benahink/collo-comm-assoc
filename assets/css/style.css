@@ -331,7 +331,7 @@ body {
 
 
 .hero {
-  background-color: var(--jet);
+  /* background-color: var(--jet); */
   background-image: url(../images/hero2.jpg);
   background-size: cover;
   color: var(--white);
