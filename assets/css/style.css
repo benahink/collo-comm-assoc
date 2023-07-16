@@ -252,7 +252,7 @@ body {
 .logo {
   color: var(--white);
   font-family: var(--ff-oswald);
-  font-size: 2.4rem;
+  font-size: 2.2rem;
   text-transform: uppercase;
 }
 
@@ -331,7 +331,9 @@ body {
 
 
 .hero {
-  background-color: var(--eerie-black-1);
+  background-color: var(--jet);
+  background-image: url(../images/hero2.jpg);
+  background-size: cover;
   color: var(--white);
   min-height: 700px;
   padding-block: 120px 60px;
@@ -361,8 +363,8 @@ body {
 
 /*=============== FEATURES ===============*/
 .features {
-  padding-block-start: 0;
-  background-color: var(--eerie-black-1);
+  padding-block-start: 80px;
+  background-color: var(--jet);
 }
 
 .features-list {
