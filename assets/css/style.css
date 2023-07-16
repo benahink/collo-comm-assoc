@@ -363,7 +363,7 @@ body {
 
 /*=============== FEATURES ===============*/
 .features {
-  padding-block-start: 80px 15px;
+  padding-block-start: 0;
   background-color: var(--jet);
 }
 
